@@ -1,0 +1,24 @@
+.tweet{
+  border: solid 1px #F2F2F2;
+}
+
+
+.tweet-head{
+  display: -webkit-flex;
+   display: flex;
+   -webkit-justify-content: space-around;
+   justify-content: space-around;
+}
+
+.tweet-user{
+ font-size: 25px;
+
+}
+.tweet-time{
+ font-size:15px;
+ margin-top: 16;
+}
+
+.comment-input{
+  color: #FFFFFF;
+}

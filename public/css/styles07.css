@@ -1,0 +1,39 @@
+.tweet{
+  border: solid 1px #F2F2F2;
+}
+
+
+.tweet-head{
+  display: -webkit-flex;
+   display: flex;
+   -webkit-justify-content: space-around;
+   justify-content: space-around;
+}
+
+.tweet-user{
+ font-size: 25px;
+
+}
+.tweet-time{
+ font-size:15px;
+ margin-top: 16;
+}
+
+.comment-input{
+  color: #FFFFFF;
+}
+
+.comment-head{
+  font-size:30px;
+}
+
+.comment-content-under{
+  border-bottom:  solid 1px #F2F2F2;
+  margin-top: 6px;
+  font-size: 10px;
+}
+
+.user-page-comments-content{
+  margin-bottom: 10px;
+  border-bottom:  solid 1px #F2F2F2;
+}
